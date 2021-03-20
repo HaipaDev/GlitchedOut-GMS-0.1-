@@ -1,0 +1,23 @@
+Converting GML script: ${project_dir}\objects\obj_htme\Create_0.gml
+Converted description /// @description htme_init(); - Start engine
+
+Converting GML script: ${project_dir}\objects\obj_htme\Destroy_0.gml
+Converted description /// @description Disconnect or kick clients if started
+
+Converting GML script: ${project_dir}\objects\obj_htme\Step_0.gml
+Converted description /// @description htme_step(); - Pass step event to the engine
+
+Converting GML script: ${project_dir}\objects\obj_htme\Other_68.gml
+Converted description /// @description htme_networking(); - Pass networking event to the engine
+
+Converting GML script: ${project_dir}\objects\obj_htme\Other_5.gml
+Converted description /// @description htme_roomend(); - Clear up instances
+
+Converting GML script: ${project_dir}\objects\obj_htme\Other_4.gml
+Converted description /// @description htme_roomstart(); - Sync current room
+
+Converting GML script: ${project_dir}\objects\obj_htme\Other_3.gml
+Converted description /// @description Disconnect or kick clients if started
+
+Converting GML script: ${project_dir}\objects\obj_htme\Draw_0.gml
+Converted description /// @description htme_debugoverlay(); - Draw debug overlay

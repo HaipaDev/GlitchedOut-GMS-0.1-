@@ -1,0 +1,4 @@
+Converting GML script: ${project_dir}\objects\objOverlay\Draw_0.gml
+Converted builtin - line 3: view_wview[ 0 ] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[ 0 ] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 4: view_surface_id[ 0 ] = _screen -> __view_set( e__VW.SurfaceID, 0, _screen )

@@ -1,0 +1,67 @@
+Converting GML script: ${project_dir}\objects\obj_control\Create_0.gml
+Converted description /// @description  SET UP UDP HOLE PUNCHING 
+
+Converting GML script: ${project_dir}\objects\obj_control\Step_1.gml
+Converted description /// @description  Clear both hello world strings
+
+Converting GML script: ${project_dir}\objects\obj_control\Draw_0.gml
+Converted description /// @description  Draw text (only in udphp_room)/// @param only in udphp_room
+
+Converting GML script: ${project_dir}\objects\obj_client\Create_0.gml
+Converted description /// @description  START CLIENT
+
+Converting GML script: ${project_dir}\objects\obj_client\Step_0.gml
+Converted description /// @description  RUN HOLE-PUNCHING RELATED LOGIC
+
+Converting GML script: ${project_dir}\objects\obj_client\Other_68.gml
+Converted description /// @description  RUN HOLE-PUNCHING RELATED LOGIC
+
+Converting GML script: ${project_dir}\objects\obj_lobbyclient\Create_0.gml
+Converted description /// @description  START CLIENT
+
+Converting GML script: ${project_dir}\objects\obj_server\Create_0.gml
+Converted description /// @description  START SERVER
+
+Converting GML script: ${project_dir}\objects\obj_server\Step_0.gml
+Converted description /// @description  RUN HOLE-PUNCHING RELATED LOGIC
+
+Converting GML script: ${project_dir}\objects\obj_server\Other_68.gml
+Converted description /// @description  RUN HOLE-PUNCHING RELATED LOGIC
+
+Converting GML script: ${project_dir}\objects\obj_demo_btn_client_stop\Mouse_4.gml
+Converted description /// @description Stop last client
+
+Converting GML script: ${project_dir}\objects\obj_demo_btn_server_stop\Mouse_4.gml
+Converted description /// @description Stop Server
+
+Converting GML script: ${project_dir}\objects\obj_demo_btn_client\Mouse_4.gml
+Converted description /// @description  Start client OR load lobby
+
+Converting GML script: ${project_dir}\objects\obj_demo_btn_server\Mouse_4.gml
+Converted description /// @description  Start server
+
+Converting GML script: ${project_dir}\objects\obj_udphphtme_lobby\Other_68.gml
+Converted description /// @description Waits for master server response
+
+Converting GML script: ${project_dir}\objects\obj_udphphtme_lobby\Draw_0.gml
+Converted description /// @description Background
+
+Converting GML script: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_82.gml
+Converted description /// @description Call create event
+
+Converting GML script: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_52.gml
+Converted description /// @description LOAD GAME SERVER ON SLOT 4
+
+Converting GML script: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_51.gml
+Converted description /// @description LOAD GAME SERVER ON SLOT 3
+
+Converting GML script: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_50.gml
+Converted description /// @description LOAD GAME SERVER ON SLOT 2
+
+Converting GML script: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_49.gml
+Converted description /// @description LOAD GAME SERVER ON SLOT 1
+
+Converting GML script: ${project_dir}\objects\obj_udphphtme_lobby\KeyPress_27.gml
+Converted description /// @description Go back
+
+Updated compatibility script '__global_object_depths.gml'

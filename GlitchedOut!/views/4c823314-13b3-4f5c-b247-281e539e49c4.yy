@@ -1,0 +1,32 @@
+{
+    "id": "4c823314-13b3-4f5c-b247-281e539e49c4",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "4c823314-13b3-4f5c-b247-281e539e49c4",
+    "children": [
+        "ac7c27e1-ab2b-429e-9cfc-c45fbf00c463",
+        "bfabfa1a-d6d5-4e0d-84b3-207c91629c84",
+        "2b547171-abe0-4e7a-a8d3-35e807b433d8",
+        "7487b6b4-f5cc-45e6-af5d-57994e7bcf52",
+        "e7d730ce-3c3f-4330-b4fd-2095e813c9b6",
+        "91eca829-caa3-4317-9340-7ad7dac5af44",
+        "a92eaaf4-fba1-4054-ba53-ce070cb18c7c",
+        "11121d3b-579f-4e8d-9134-0e6542aec22c",
+        "7eaf7a58-96ea-419a-9763-7d7b225739c3",
+        "eaa390f5-65b0-447e-b01e-ab0eaa2c34ed",
+        "fcd5e6c5-70b6-4131-8134-f2f99d06d918",
+        "f64f844e-91e1-41e7-b5fd-ade44f11b1b7",
+        "806bfd8c-339d-4325-b79c-7ef584095dbd",
+        "173ccdf8-5e47-429d-ac77-734e5d260ac3",
+        "fa0713b5-cd47-4312-b24b-045878cca585",
+        "ea438064-568a-443c-8244-db7d0216878b",
+        "11f2d778-3459-4194-89e0-816b29d2614e",
+        "75db2268-0be3-4508-bb0b-1e705742d9eb",
+        "d600989d-d24e-4a7f-8858-7d6916af63e1",
+        "4ec41451-802f-47be-bf70-c55f2d9adcea"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Players",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

@@ -1,0 +1,1827 @@
+Converting GML script: ${project_dir}\scripts\create_part_type_sprite\create_part_type_sprite.gml
+Converted description /// @description  create_part_type_sprite(sprite, blend, shape, min_life, max_life, min_alpha[.25], max_alpha[0], max_angle)/// @function  create_part_type_sprite
+/// @param sprite
+/// @param  blend
+/// @param  shape
+/// @param  min_life
+/// @param  max_life
+/// @param  min_alpha[.25]
+/// @param  max_alpha[0]
+/// @param  max_angle
+
+Converting GML script: ${project_dir}\scripts\create_blood\create_blood.gml
+Converted description /// @description  create_blood(x, y);/// @function  create_blood
+/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_glitch\create_glitch.gml
+Converted description /// @description  create_glitch(x, y);/// @function  create_glitch
+/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_glitch_small\create_glitch_small.gml
+Converted description /// @description  create_glitch_small(x, y);/// @function  create_glitch_small
+/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_smoke\create_smoke.gml
+Converted description /// @description  create_smoke(x, y);/// @function  create_smoke
+/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\create_smoke_big\create_smoke_big.gml
+Converted description /// @description  create_smoke_big(x, y);/// @function  create_smoke_big
+/// @param x
+/// @param  y
+
+Converting GML script: ${project_dir}\scripts\save_game\save_game.gml
+Converted description /// @description  save_game();/// @function  save_game
+
+Converting GML script: ${project_dir}\scripts\load_game\load_game.gml
+Converted description /// @description  load_game();/// @function  load_game
+
+Converting GML script: ${project_dir}\scripts\timer_ring\timer_ring.gml
+Converted description /// @description  timer_ring(x,y,radius,thickness,maxsegments,segments,startangle,totalangle,direction,colour);/// @function  timer_ring
+/// @param x
+/// @param y
+/// @param radius
+/// @param thickness
+/// @param maxsegments
+/// @param segments
+/// @param startangle
+/// @param totalangle
+/// @param direction
+/// @param colour
+
+Converting GML script: ${project_dir}\scripts\timer_ring_gradient\timer_ring_gradient.gml
+Converted description /// @description  timer_ring_gradient(x,y,radius,thickness,maxsegments,segments,startangle,totalangle,direction,colour,colour2);/// @function  timer_ring_gradient
+/// @param x
+/// @param y
+/// @param radius
+/// @param thickness
+/// @param maxsegments
+/// @param segments
+/// @param startangle
+/// @param totalangle
+/// @param direction
+/// @param colour
+/// @param colour2
+
+Converting GML script: ${project_dir}\scripts\draw_healthbar_circular\draw_healthbar_circular.gml
+Converted description /// @description draw_healthbar_circular(center x, center y, radius, start angle, percent health, sprite)/// @function draw_healthbar_circular
+/// @param center x
+/// @param  center y
+/// @param  radius
+/// @param  start angle
+/// @param  percent health
+/// @param  sprite
+
+Converting GML script: ${project_dir}\scripts\move_player1\move_player1.gml
+Converted description /// @description  move_player1();/// @function  move_player1
+
+Converting GML script: ${project_dir}\scripts\move_player2\move_player2.gml
+Converted description /// @description  move_player2();/// @function  move_player2
+
+Converting GML script: ${project_dir}\scripts\idle_player\idle_player.gml
+Converted description /// @description  idle_player();/// @function  idle_player
+
+Converting GML script: ${project_dir}\scripts\random_teleport\random_teleport.gml
+Converted description /// @description  random_teleport();/// @function  random_teleport
+
+Converting GML script: ${project_dir}\scripts\random_teleport_short\random_teleport_short.gml
+Converted description /// @description  random_teleport_short();/// @function  random_teleport_short
+
+Converting GML script: ${project_dir}\scripts\death\death.gml
+Converted description /// @description  death();/// @function  death
+
+Converting GML script: ${project_dir}\scripts\starting_perks\starting_perks.gml
+Converted description /// @description  starting_perks();/// @function  starting_perks
+
+Converting GML script: ${project_dir}\scripts\starting_perks_online\starting_perks_online.gml
+Converted description /// @description  starting_perks_online();/// @function  starting_perks_online
+
+Converting GML script: ${project_dir}\scripts\move_illusion1\move_illusion1.gml
+Converted description /// @description  move_illusion1();/// @function  move_illusion1
+
+Converting GML script: ${project_dir}\scripts\move_illusion2\move_illusion2.gml
+Converted description /// @description  move_illusion2();/// @function  move_illusion2
+
+Converting GML script: ${project_dir}\scripts\move_player1_demon\move_player1_demon.gml
+Converted description /// @description  move_player1_demon();/// @function  move_player1_demon
+
+Converting GML script: ${project_dir}\scripts\move_player2_demon\move_player2_demon.gml
+Converted description /// @description  move_player2_demon();/// @function  move_player2_demon
+
+Converting GML script: ${project_dir}\scripts\htme_init\htme_init.gml
+Converted description /// @description htme_init()/// @function htme_init
+
+Converting GML script: ${project_dir}\scripts\htme_debugger\htme_debugger.gml
+Converted description /// @description htme_debugger(scriptname,level,message)/// @function htme_debugger
+/// @param scriptname
+/// @param level
+/// @param message
+
+Converting GML script: ${project_dir}\scripts\htme_hash\htme_hash.gml
+Converted description /// @description htme_hash()/// @function htme_hash
+
+Converting GML script: ${project_dir}\scripts\htme_string_explode\htme_string_explode.gml
+Converted description /// @description htme_string_explode(str,sep,index)/// @function htme_string_explode
+/// @param str
+/// @param sep
+/// @param index
+
+Converting GML script: ${project_dir}\scripts\htme_ds_map_find_key\htme_ds_map_find_key.gml
+Converted description /// @description htme_ds_map_find_key(index,value);/// @function htme_ds_map_find_key
+/// @param index
+/// @param value
+
+Converting GML script: ${project_dir}\scripts\htme_playerMapPort\htme_playerMapPort.gml
+Converted description /// @description htme_playerMapPort(player)/// @function htme_playerMapPort
+/// @param player
+
+Converting GML script: ${project_dir}\scripts\htme_playerMapIP\htme_playerMapIP.gml
+Converted description /// @description htme_playerMapIP(player)/// @function htme_playerMapIP
+/// @param player
+
+Converting GML script: ${project_dir}\scripts\htme_isLocal\htme_isLocal.gml
+Converted description /// @description htme_isLocal();/// @function htme_isLocal
+
+Converting GML script: ${project_dir}\scripts\htme_clientIsConnected\htme_clientIsConnected.gml
+Converted description /// @description htme_clientIsConnected()/// @function htme_clientIsConnected
+
+Converting GML script: ${project_dir}\scripts\htme_clientConnectionFailed\htme_clientConnectionFailed.gml
+Converted description /// @description htme_clientConnectionFailed()/// @function htme_clientConnectionFailed
+
+Converting GML script: ${project_dir}\scripts\htme_isStarted\htme_isStarted.gml
+Converted description /// @description htme_htme_isStarted()/// @function htme_htme_isStarted
+
+Converting GML script: ${project_dir}\scripts\htme_isServer\htme_isServer.gml
+Converted description /// @description htme_isSefver()/// @function htme_isSefver
+
+Converting GML script: ${project_dir}\scripts\htme_getPlayers\htme_getPlayers.gml
+Converted description /// @description htme_getPlayers()/// @function htme_getPlayers
+
+Converting GML script: ${project_dir}\scripts\htme_findPlayerInstance\htme_findPlayerInstance.gml
+Converted description /// @description htme_findPlayerInstance(object,player);/// @function htme_findPlayerInstance
+/// @param object
+/// @param player
+
+Converting GML script: ${project_dir}\scripts\htme_debugOverlayEnabled\htme_debugOverlayEnabled.gml
+Converted description /// @description htme_debugOverlayEnabled();/// @function htme_debugOverlayEnabled
+
+Converting GML script: ${project_dir}\scripts\htme_setGamename\htme_setGamename.gml
+Converted description /// @description htme_setGamename(name)/// @function htme_setGamename
+/// @param name
+
+Converting GML script: ${project_dir}\scripts\htme_getGamename\htme_getGamename.gml
+Converted description /// @description htme_getGamename()/// @function htme_getGamename
+
+Converting GML script: ${project_dir}\scripts\htme_setData\htme_setData.gml
+Converted description /// @description htme_setData(id(2-8),string)/// @function htme_setData
+/// @param id(2-8
+
+Converting GML script: ${project_dir}\scripts\htme_getDataServer\htme_getDataServer.gml
+Converted description /// @description htme_getDataServer(id(2-8))/// @function htme_getDataServer
+/// @param id(2-8
+
+Converting GML script: ${project_dir}\scripts\htme_commitData\htme_commitData.gml
+Converted description /// @description htme_commitData()/// @function htme_commitData
+
+Converting GML script: ${project_dir}\scripts\htme_getPlayerNumber\htme_getPlayerNumber.gml
+Converted description /// @description htme_getPlayerNumber(playerhash);/// @function htme_getPlayerNumber
+/// @param playerhash
+
+Converting GML script: ${project_dir}\scripts\htme_serverDisconnect\htme_serverDisconnect.gml
+Converted description /// @description htme_serverDisconnect(playerhash);/// @function htme_serverDisconnect
+/// @param playerhash
+
+Converting GML script: ${project_dir}\scripts\htme_serverShutdown\htme_serverShutdown.gml
+Converted description /// @description htme_serverShutdown()/// @function htme_serverShutdown
+
+Converting GML script: ${project_dir}\scripts\htme_clientDisconnect\htme_clientDisconnect.gml
+Converted description /// @description htme_clientDisconnect();/// @function htme_clientDisconnect
+
+Converting GML script: ${project_dir}\scripts\htme_startLANsearch\htme_startLANsearch.gml
+Converted description /// @description htme_startLANsearch(port,[gamefilter]);/// @function htme_startLANsearch
+/// @param port
+/// @param [gamefilter]
+
+Converting GML script: ${project_dir}\scripts\htme_stopLANsearch\htme_stopLANsearch.gml
+Converted description /// @description htme_stopLANsearch();/// @function htme_stopLANsearch
+
+Converting GML script: ${project_dir}\scripts\htme_getLANServers\htme_getLANServers.gml
+Converted description /// @description htme_getLANServers();/// @function htme_getLANServers
+
+Converting GML script: ${project_dir}\scripts\htme_serverEventHandlerConnecting\htme_serverEventHandlerConnecting.gml
+Converted description /// @description htme_serverEventHandlerConnecting(script);/// @function htme_serverEventHandlerConnecting
+/// @param script
+
+Converting GML script: ${project_dir}\scripts\htme_serverEventHandlerDisconnecting\htme_serverEventHandlerDisconnecting.gml
+Converted description /// @description htme_serverEventHandlerDisconnecting(script);/// @function htme_serverEventHandlerDisconnecting
+/// @param script
+
+Converting GML script: ${project_dir}\scripts\htme_globalGet\htme_globalGet.gml
+Converted description /// @description htme_globalGet(name);/// @function htme_globalGet
+/// @param name
+
+Converting GML script: ${project_dir}\scripts\htme_globalSet\htme_globalSet.gml
+Converted description /// @description htme_globalSet(name,value,datatype);/// @function htme_globalSet
+/// @param name
+/// @param value
+/// @param datatype
+
+Converting GML script: ${project_dir}\scripts\htme_globalSetFast\htme_globalSetFast.gml
+Converted description /// @description htme_globalSetFast(name,value,datatype);/// @function htme_globalSetFast
+/// @param name
+/// @param value
+/// @param datatype
+
+Converting GML script: ${project_dir}\scripts\htme_chatGetSender\htme_chatGetSender.gml
+Converted description /// @description htme_chatGetSender(chat_queue_entry)/// @function htme_chatGetSender
+/// @param chat_queue_entry
+
+Converting GML script: ${project_dir}\scripts\htme_chatGetMessage\htme_chatGetMessage.gml
+Converted description /// @description htme_chatGetMessage(chat_queue_entry)/// @function htme_chatGetMessage
+/// @param chat_queue_entry
+
+Converting GML script: ${project_dir}\scripts\htme_clientStart\htme_clientStart.gml
+Converted description /// @description htme_clientStart(server_ip,server_port);/// @function htme_clientStart
+/// @param server_ip
+/// @param server_port
+
+Converting GML script: ${project_dir}\scripts\htme_serverStart\htme_serverStart.gml
+Converted description /// @description htme_serverStart(port,maxclients)/// @function htme_serverStart
+/// @param port
+/// @param maxclients
+
+Converting GML script: ${project_dir}\scripts\htme_clientCheckConnection\htme_clientCheckConnection.gml
+Converted description /// @description htme_clientCheckConnection();/// @function htme_clientCheckConnection
+
+Converting GML script: ${project_dir}\scripts\htme_clientConnect\htme_clientConnect.gml
+Converted description /// @description htme_clientConnect();/// @function htme_clientConnect
+
+Converting GML script: ${project_dir}\scripts\htme_clientSyncSingleVarGroup\htme_clientSyncSingleVarGroup.gml
+Converted description /// @description htme_clientSyncSingleVarGroup(group,buffer);/// @function htme_clientSyncSingleVarGroup
+/// @param group
+/// @param buffer
+
+Converting GML script: ${project_dir}\scripts\htme_clientNetworking\htme_clientNetworking.gml
+Converted description /// @description htme_clientNetworking();/// @function htme_clientNetworking
+
+Converting GML script: ${project_dir}\scripts\htme_clientConnectNetworking\htme_clientConnectNetworking.gml
+Converted description /// @description htme_clientConnect(server_ip,server_port);/// @function htme_clientConnect
+/// @param server_ip
+/// @param server_port
+
+Converting GML script: ${project_dir}\scripts\htme_clientCheckConnectionNetworking\htme_clientCheckConnectionNetworking.gml
+Converted description /// @description htme_clientCheckConnectionNetworking();/// @function htme_clientCheckConnectionNetworking
+
+Converting GML script: ${project_dir}\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 42: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 44: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 46: unexpected syntax error
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 50: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 52: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 54: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 56: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 58: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 60: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 62: unexpected syntax error
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 66: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 68: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 70: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 74: nested function calls are not allowed
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 76: unexpected syntax error
+ERROR: C:\Users\matikret\Documents\GameMakerStudio2\GlitchedOut!\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml - 87: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\scripts\htme_clientRecieveVarGroup\htme_clientRecieveVarGroup.gml
+
+Converting GML script: ${project_dir}\scripts\htme_clientStop\htme_clientStop.gml
+Converted description /// @description htme_clientStop()/// @function htme_clientStop
+
+Converting GML script: ${project_dir}\scripts\htme_clientBroadcastUnsync\htme_clientBroadcastUnsync.gml
+Converted description /// @description htme_clientBroadcastUnsync(hash)/// @function htme_clientBroadcastUnsync
+/// @param hash
+
+Converting GML script: ${project_dir}\scripts\htme_serverCheckConnections\htme_serverCheckConnections.gml
+Converted description /// @description htme_serverCheckConnections();/// @function htme_serverCheckConnections
+
+Converting GML script: ${project_dir}\scripts\htme_serverSyncSingleVarGroup\htme_serverSyncSingleVarGroup.gml
+Converted description /// @description htme_serverSyncSingleVarGroup(group,buffer);/// @function htme_serverSyncSingleVarGroup
+/// @param group
+/// @param buffer
+
+Converting GML script: ${project_dir}\scripts\htme_serverProcessKicks\htme_serverProcessKicks.gml
+Converted description /// @description htme_serverProcessKicks();/// @function htme_serverProcessKicks
+
+Converting GML script: ${project_dir}\scripts\htme_serverBroadcast\htme_serverBroadcast.gml
+Converted description /// @description htme_serverProcessKicks();/// @function htme_serverProcessKicks
+
+Converting GML script: ${project_dir}\scripts\htme_serverNetworking\htme_serverNetworking.gml
+Converted description /// @description htme_serverNetworking()/// @function htme_serverNetworking
+
+Converting GML script: ${project_dir}\scripts\htme_serverSyncPlayersUDPHP\htme_serverSyncPlayersUDPHP.gml
+Converted description /// @description htme_syncPlayersUDPHP()/// @function htme_syncPlayersUDPHP
+
+Converting GML script: ${project_dir}\scripts\htme_serverConnectNetworking\htme_serverConnectNetworking.gml
+Converted description /// @description htme_serverConnectNetworking()/// @function htme_serverConnectNetworking
+
+Converting GML script: ${project_dir}\scripts\htme_serverCheckConnectionsNetworking\htme_serverCheckConnectionsNetworking.gml
+Converted description /// @description htme_serverCheckConnections();/// @function htme_serverCheckConnections
+
+Converting GML script: ${project_dir}\scripts\htme_serverRecieveVarGroup\htme_serverRecieveVarGroup.gml
+Converted description /// @description htme_serverRecieveVarGroup(instancehash,playerhash,object_id,inst_stayAlive,instance,tolerance,datatype,groupname,inst_room);/// @function htme_serverRecieveVarGroup
+/// @param instancehash
+/// @param playerhash
+/// @param object_id
+/// @param inst_stayAlive
+/// @param instance
+/// @param tolerance
+/// @param datatype
+/// @param groupname
+/// @param inst_room
+
+Converting GML script: ${project_dir}\scripts\htme_serverStop\htme_serverStop.gml
+Converted description /// @description htme_serverStop()/// @function htme_serverStop
+
+Converting GML script: ${project_dir}\scripts\htme_serverKickClient\htme_serverKickClient.gml
+Converted description /// @description htme_serverKickClient(client_ip_port);/// @function htme_serverKickClient
+/// @param client_ip_port
+
+Converting GML script: ${project_dir}\scripts\htme_serverEventPlayerConnected\htme_serverEventPlayerConnected.gml
+Converted description /// @description htme_serverEventPlayerConnected(ip,port);/// @function htme_serverEventPlayerConnected
+/// @param ip
+/// @param port
+
+Converting GML script: ${project_dir}\scripts\htme_serverSendBufferToAllExcept\htme_serverSendBufferToAllExcept.gml
+Converted description /// @description htme_serverSendBufferToAllExcept(buffer,exclude,[checkroom])/// @function htme_serverSendBufferToAllExcept
+/// @param buffer
+/// @param exclude
+/// @param [checkroom]
+
+Converting GML script: ${project_dir}\scripts\htme_serverSendAllInstances\htme_serverSendAllInstances.gml
+Converted description /// @description htme_serverSendAllInstances(player);/// @function htme_serverSendAllInstances
+/// @param player
+
+Converting GML script: ${project_dir}\scripts\htme_serverPlayerIsInRoom\htme_serverPlayerIsInRoom.gml
+Converted description /// @description htme_serverPlayerIsInRoom(player,troom);/// @function htme_serverPlayerIsInRoom
+/// @param player
+/// @param troom
+
+Converting GML script: ${project_dir}\scripts\htme_serverBroadcastRoomChange\htme_serverBroadcastRoomChange.gml
+Converted description /// @description htme_serverBroadcastRoomChange(hash)/// @function htme_serverBroadcastRoomChange
+/// @param hash
+
+Converting GML script: ${project_dir}\scripts\htme_serverRecreateInstancesLocal\htme_serverRecreateInstancesLocal.gml
+Converted description /// @description htme_serverRecreateInstancesLocal();/// @function htme_serverRecreateInstancesLocal
+
+Converting GML script: ${project_dir}\scripts\htme_serverBroadcastUnsync\htme_serverBroadcastUnsync.gml
+Converted description /// @description htme_serverBroadcastUnsync(hash,[target])/// @function htme_serverBroadcastUnsync
+/// @param hash
+/// @param [target]
+
+Converting GML script: ${project_dir}\scripts\htme_chatSendServer\htme_chatSendServer.gml
+Converted description /// @description htme_chatSendServer(channel,message,to)/// @function htme_chatSendServer
+/// @param channel
+/// @param message
+/// @param to
+
+Converting GML script: ${project_dir}\scripts\htme_serverAskPlayersToResync\htme_serverAskPlayersToResync.gml
+Converted description /// @description htme_serverAskPlayersToResync(room,except);/// @function htme_serverAskPlayersToResync
+/// @param room
+/// @param except
+
+Converting GML script: ${project_dir}\scripts\htme_step\htme_step.gml
+Converted description /// @description htme_step()/// @function htme_step
+
+Converting GML script: ${project_dir}\scripts\htme_syncInstances\htme_syncInstances.gml
+Converted description /// @description htme_syncInstances()/// @function htme_syncInstances
+
+Converting GML script: ${project_dir}\scripts\htme_syncSingleVarGroup\htme_syncSingleVarGroup.gml
+Converted description /// @description htme_syncSingleVarGroup(group,target)/// @function htme_syncSingleVarGroup
+/// @param group
+/// @param target
+
+Converting GML script: ${project_dir}\scripts\htme_forceSyncLocalInstances\htme_forceSyncLocalInstances.gml
+Converted description /// @description htme_forceSyncLocalInstances(playerhash);/// @function htme_forceSyncLocalInstances
+/// @param playerhash
+
+Converting GML script: ${project_dir}\scripts\htme_syncVar\htme_syncVar.gml
+Converted description /// @description htme_syncVar(buffer,group,datatype,newval,varname,prevSyncMap,[addName]);/// @function htme_syncVar
+/// @param buffer
+/// @param group
+/// @param datatype
+/// @param newval
+/// @param varname
+/// @param prevSyncMap
+/// @param [addName]
+
+Converting GML script: ${project_dir}\scripts\htme_networking\htme_networking.gml
+Converted description /// @description htme_networking()/// @function htme_networking
+
+Converting GML script: ${project_dir}\scripts\htme_recieveVarGroup\htme_recieveVarGroup.gml
+Converted description /// @description htme_recieveVarGroup();/// @function htme_recieveVarGroup
+
+Converting GML script: ${project_dir}\scripts\htme_RecieveVar\htme_RecieveVar.gml
+Converted description /// @description htme_RecieveVar(instvar,newval,tolerance,datatype);/// @function htme_RecieveVar
+/// @param instvar
+/// @param newval
+/// @param tolerance
+/// @param datatype
+
+Converting GML script: ${project_dir}\scripts\htme_recieveGS\htme_recieveGS.gml
+Converted description /// @description htme_recieveGS();/// @function htme_recieveGS
+
+Converting GML script: ${project_dir}\scripts\htme_networking_searchForBroadcasts\htme_networking_searchForBroadcasts.gml
+Converted description /// @description htme_networking_searchForBroadcasts();/// @function htme_networking_searchForBroadcasts
+
+Converting GML script: ${project_dir}\scripts\htme_roomend\htme_roomend.gml
+Converted description /// @description htme_roomend()/// @function htme_roomend
+
+Converting GML script: ${project_dir}\scripts\htme_shutdown\htme_shutdown.gml
+Converted description /// @description htme_shutdown();/// @function htme_shutdown
+
+Converting GML script: ${project_dir}\scripts\htme_roomstart\htme_roomstart.gml
+Converted description /// @description htme_roomstart()/// @function htme_roomstart
+
+Converting GML script: ${project_dir}\scripts\htme_cleanUpInstance\htme_cleanUpInstance.gml
+Converted description /// @description htme_cleanUpInstance(inst);/// @function htme_cleanUpInstance
+/// @param inst
+
+Converting GML script: ${project_dir}\scripts\htme_isStayAlive\htme_isStayAlive.gml
+Converted description /// @description htme_isStayAlive(hash)/// @function htme_isStayAlive
+/// @param hash
+
+Converting GML script: ${project_dir}\scripts\htme_sendGS\htme_sendGS.gml
+Converted description /// @description htme_sendGS(target,variable,[exclude]);/// @function htme_sendGS
+/// @param target
+/// @param variable
+/// @param [exclude]
+
+Converting GML script: ${project_dir}\scripts\htme_sendGSFast\htme_sendGSFast.gml
+Converted description /// @description htme_sendGSFast(target,variable,[exclude]);/// @function htme_sendGSFast
+/// @param target
+/// @param variable
+/// @param [exclude]
+
+Converting GML script: ${project_dir}\scripts\htme_debugoverlay\htme_debugoverlay.gml
+Converted builtin - line 29: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 30: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 31: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 32: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 30: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 32: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description htme_debugoverlay();/// @function htme_debugoverlay
+
+Converting GML script: ${project_dir}\scripts\htme_do_createMicro\htme_do_createMicro.gml
+Converted description /// @description htme_debugoverlay_createMicro(player_hash,object_id,instanceid,instancehash,isVisible,isExisting);/// @function htme_debugoverlay_createMicro
+/// @param player_hash
+/// @param object_id
+/// @param instanceid
+/// @param instancehash
+/// @param isVisible
+/// @param isExisting
+
+Converting GML script: ${project_dir}\scripts\htme_doDrawInstanceTable\htme_doDrawInstanceTable.gml
+Converted description /// @description htme_debugoverlayDrawInstanceTable(title,type,filter,drawInRoom);/// @function htme_debugoverlayDrawInstanceTable
+/// @param title
+/// @param type
+/// @param filter
+/// @param drawInRoom
+
+Converting GML script: ${project_dir}\scripts\htme_doMain\htme_doMain.gml
+Converted description /// @description htme_debugoverlayStateMain();/// @function htme_debugoverlayStateMain
+
+Converting GML script: ${project_dir}\scripts\htme_dotbd\htme_dotbd.gml
+Converted description /// @description htme_dotbd();/// @function htme_dotbd
+
+Converting GML script: ${project_dir}\scripts\htme_doOff\htme_doOff.gml
+Converted description /// @description htme_debugoverlayStateMain();/// @function htme_debugoverlayStateMain
+
+Converting GML script: ${project_dir}\scripts\htme_doInstVisible\htme_doInstVisible.gml
+Converted description /// @description htme_debugoverlayStateMain();/// @function htme_debugoverlayStateMain
+
+Converting GML script: ${project_dir}\scripts\htme_doInstAll\htme_doInstAll.gml
+Converted description /// @description htme_debugoverlayStateInstAll();/// @function htme_debugoverlayStateInstAll
+
+Converting GML script: ${project_dir}\scripts\htme_doInstInvisible\htme_doInstInvisible.gml
+Converted description /// @description htme_debugoverlayStateInstInvisible();/// @function htme_debugoverlayStateInstInvisible
+
+Converting GML script: ${project_dir}\scripts\htme_doInstCached\htme_doInstCached.gml
+Converted description /// @description htme_debugoverlayStateInstInvisible();/// @function htme_debugoverlayStateInstInvisible
+
+Converting GML script: ${project_dir}\scripts\htme_doPlayers\htme_doPlayers.gml
+Converted description /// @description htme_debugoverlayStateInstInvisible();/// @function htme_debugoverlayStateInstInvisible
+
+Converting GML script: ${project_dir}\scripts\htme_doGlobalSync\htme_doGlobalSync.gml
+Converted description /// @description htme_doGlobalSync();/// @function htme_doGlobalSync
+
+Converting GML script: ${project_dir}\scripts\htme_doSignedPackets\htme_doSignedPackets.gml
+Converted description /// @description htme_doGlobalSync(show_inbox);/// @function htme_doGlobalSync
+/// @param show_inbox
+
+Converting GML script: ${project_dir}\scripts\htme_doChat\htme_doChat.gml
+Converted description /// @description htme_doChat();/// @function htme_doChat
+
+Converting GML script: ${project_dir}\scripts\htme_defaultEventHandler\htme_defaultEventHandler.gml
+Converted description /// @description htme_defaultEventHandler(argument0);/// @function htme_defaultEventHandler
+/// @param argument0
+
+Converting GML script: ${project_dir}\scripts\htme_chatSend\htme_chatSend.gml
+Converted description /// @description htme_chatSend(channel,message,[to])/// @function htme_chatSend
+/// @param channel
+/// @param message
+/// @param [to]
+
+Converting GML script: ${project_dir}\scripts\htme_sendNewSignedPacket\htme_sendNewSignedPacket.gml
+Converted description /// @description htme_sendNewSignedPacket(buffer,target,[exclude],[room]);/// @function htme_sendNewSignedPacket
+/// @param buffer
+/// @param target
+/// @param [exclude]
+/// @param [room]
+
+Converting GML script: ${project_dir}\scripts\htme_initSignedPacket\htme_initSignedPacket.gml
+Converted description /// @description htme_initSignedPacket(buffer,target);/// @function htme_initSignedPacket
+/// @param buffer
+/// @param target
+
+Converting GML script: ${project_dir}\scripts\htme_sendSingleSignedPacket\htme_sendSingleSignedPacket.gml
+Converted description /// @description htme_sendSingleSignedPacket(target,buffer,n);/// @function htme_sendSingleSignedPacket
+/// @param target
+/// @param buffer
+/// @param n
+
+Converting GML script: ${project_dir}\scripts\htme_recieveSignedPackets\htme_recieveSignedPackets.gml
+Converted description /// @description htme_recieveSignedPackets();/// @function htme_recieveSignedPackets
+
+Converting GML script: ${project_dir}\scripts\mp_sync\mp_sync.gml
+Converted description /// @description mp_sync()/// @function mp_sync
+
+Converting GML script: ${project_dir}\scripts\mp_add\mp_add.gml
+Converted description /// @description mp_add(groupname,variables,datatype,interval);/// @function mp_add
+/// @param groupname
+/// @param variables
+/// @param datatype
+/// @param interval
+
+Converting GML script: ${project_dir}\scripts\mp_addPosition\mp_addPosition.gml
+Converted description /// @description mp_addPosition(groupname,interval);/// @function mp_addPosition
+/// @param groupname
+/// @param interval
+
+Converting GML script: ${project_dir}\scripts\mp_addBuiltinBasic\mp_addBuiltinBasic.gml
+Converted description /// @description mp_addBuiltinBasic(groupname,interval);/// @function mp_addBuiltinBasic
+/// @param groupname
+/// @param interval
+
+Converting GML script: ${project_dir}\scripts\mp_addBuiltinPhysics\mp_addBuiltinPhysics.gml
+Converted description /// @description mp_addBuiltinPhysics(groupname,interval);/// @function mp_addBuiltinPhysics
+/// @param groupname
+/// @param interval
+
+Converting GML script: ${project_dir}\scripts\mp_unsync\mp_unsync.gml
+Converted description /// @description mp_unsync()/// @function mp_unsync
+
+Converting GML script: ${project_dir}\scripts\mp_setType\mp_setType.gml
+Converted description /// @description mp_setType(group,type)/// @function mp_setType
+/// @param group
+/// @param type
+
+Converting GML script: ${project_dir}\scripts\mp_stayAlive\mp_stayAlive.gml
+Converted description /// @description mp_stayAlive();/// @function mp_stayAlive
+
+Converting GML script: ${project_dir}\scripts\mp_map_syncIn\mp_map_syncIn.gml
+Converted description /// @description mp_map_syncIn(varName, variable)/// @function mp_map_syncIn
+/// @param varName
+/// @param  variable
+
+Converting GML script: ${project_dir}\scripts\mp_map_syncOut\mp_map_syncOut.gml
+Converted description /// @description mp_map_syncOut(varName, variable)/// @function mp_map_syncOut
+/// @param varName
+/// @param  variable
+
+Converting GML script: ${project_dir}\scripts\mp_tolerance\mp_tolerance.gml
+Converted description /// @description mp_tolerance(groupname,tolerance)/// @function mp_tolerance
+/// @param groupname
+/// @param tolerance
+
+Converting GML script: ${project_dir}\scripts\mp_syncAsChatHandler\mp_syncAsChatHandler.gml
+Converted description /// @description mp_syncAsChatHandler(channel)/// @function mp_syncAsChatHandler
+/// @param channel
+
+Converting GML script: ${project_dir}\scripts\mp_chatGetQueue\mp_chatGetQueue.gml
+Converted description /// @description mp_chatGetQueue()/// @function mp_chatGetQueue
+
+Converting GML script: ${project_dir}\scripts\mp_chatSend\mp_chatSend.gml
+Converted description /// @description mp_chatSend(message,[to])/// @function mp_chatSend
+/// @param message
+/// @param [to]
+
+Converting GML script: ${project_dir}\scripts\udphp_createServer\udphp_createServer.gml
+Converted description /// @description udphp_createServer(udp_server,buffer,player_list)/// @function udphp_createServer
+/// @param udp_server
+/// @param buffer
+/// @param player_list
+
+Converting GML script: ${project_dir}\scripts\udphp_serverPunch\udphp_serverPunch.gml
+Converted description /// @description udphp_serverPunch()/// @function udphp_serverPunch
+
+Converting GML script: ${project_dir}\scripts\udphp_serverNetworking\udphp_serverNetworking.gml
+Converted description /// @description udphp_serverNetworking()/// @function udphp_serverNetworking
+
+Converting GML script: ${project_dir}\scripts\udphp_stopServer\udphp_stopServer.gml
+Converted description /// @description udphp_stopServer()/// @function udphp_stopServer
+
+Converting GML script: ${project_dir}\scripts\udphp_serverCommitData\udphp_serverCommitData.gml
+Converted description /// @description udphp_serverCommitData()/// @function udphp_serverCommitData
+
+Converting GML script: ${project_dir}\scripts\udphp_serverSetData\udphp_serverSetData.gml
+Converted description /// @description udphp_serverSetData(n,string)/// @function udphp_serverSetData
+/// @param n
+/// @param string
+
+Converting GML script: ${project_dir}\scripts\udphp_createClient\udphp_createClient.gml
+Converted description /// @description udphp_createClient(udp_socket,server_ip,buffer,directconnect,directconnect_port)/// @function udphp_createClient
+/// @param udp_socket
+/// @param server_ip
+/// @param buffer
+/// @param directconnect
+/// @param directconnect_port
+
+Converting GML script: ${project_dir}\scripts\udphp_clientPunch\udphp_clientPunch.gml
+Converted description /// @description udphp_clientPunch(client_id)/// @function udphp_clientPunch
+/// @param client_id
+
+Converting GML script: ${project_dir}\scripts\udphp_clientNetworking\udphp_clientNetworking.gml
+Converted description /// @description udphp_clientNetworking(client_id)/// @function udphp_clientNetworking
+/// @param client_id
+
+Converting GML script: ${project_dir}\scripts\udphp_stopClient\udphp_stopClient.gml
+Converted description /// @description udphp_stopClient(client_id)/// @function udphp_stopClient
+/// @param client_id
+
+Converting GML script: ${project_dir}\scripts\udphp_clientReadData\udphp_clientReadData.gml
+Converted description /// @description udphp_clientReadData(clientid)/// @function udphp_clientReadData
+/// @param clientid
+
+Converting GML script: ${project_dir}\scripts\udphp_clientGetServerIP\udphp_clientGetServerIP.gml
+Converted description /// @description udphp_clientGetServerIP(client_id)/// @function udphp_clientGetServerIP
+/// @param client_id
+
+Converting GML script: ${project_dir}\scripts\udphp_clientGetServerPort\udphp_clientGetServerPort.gml
+Converted description /// @description udphp_clientGetServerPort(client_id)/// @function udphp_clientGetServerPort
+/// @param client_id
+
+Converting GML script: ${project_dir}\scripts\udphp_playerListIP\udphp_playerListIP.gml
+Converted description /// @description udphp_playerListIP(player)/// @function udphp_playerListIP
+/// @param player
+
+Converting GML script: ${project_dir}\scripts\udphp_playerListPort\udphp_playerListPort.gml
+Converted description /// @description udphp_playerListPort(player)/// @function udphp_playerListPort
+/// @param player
+
+Converting GML script: ${project_dir}\scripts\udphp_clientIsConnected\udphp_clientIsConnected.gml
+Converted description /// @description udphp_clientIsConnected(client_id)/// @function udphp_clientIsConnected
+/// @param client_id
+
+Converting GML script: ${project_dir}\scripts\udphp_string_explode\udphp_string_explode.gml
+Converted description /// @description udphp_sstring_explode(str,sep,index)/// @function udphp_sstring_explode
+/// @param str
+/// @param sep
+/// @param index
+
+Converting GML script: ${project_dir}\scripts\udphp_handleerror\udphp_handleerror.gml
+Converted description /// @description udphp_handleerror(type,component,client_id,message)/// @function udphp_handleerror
+/// @param type
+/// @param component
+/// @param client_id
+/// @param message
+
+Converting GML script: ${project_dir}\scripts\udphp_downloadNetworking\udphp_downloadNetworking.gml
+Converted description /// @description udphp_downloadNetworking()/// @function udphp_downloadNetworking
+
+Converting GML script: ${project_dir}\scripts\udphp_downloadServerList\udphp_downloadServerList.gml
+Converted description /// @description udphp_downloadServerList([limit],[sortby],[sortby_dir],[filter_data1],[filter_data2],[dfilter_ata3],[filter_data4],[filter_data5],[filter_data6],[dfilter_ata7],[filter_data8])/// @function udphp_downloadServerList
+/// @param [limit]
+/// @param [sortby]
+/// @param [sortby_dir]
+/// @param [filter_data1]
+/// @param [filter_data2]
+/// @param [dfilter_ata3]
+/// @param [filter_data4]
+/// @param [filter_data5]
+/// @param [filter_data6]
+/// @param [dfilter_ata7]
+/// @param [filter_data8]
+
+Converting GML script: ${project_dir}\scripts\udphp_config\udphp_config.gml
+Converted description /// @description udphp_config(master_ip,master_port,reconnect_intv,timeouts,debug,silent)/// @function udphp_config
+/// @param master_ip
+/// @param master_port
+/// @param reconnect_intv
+/// @param timeouts
+/// @param debug
+/// @param silent
+
+!!! Font fnt_giant font family SF Atarian System is installed but couldn't match style - Font has NOT been regenerated
+!!! Font fnt_game font family SF Atarian System is installed but couldn't match style - Font has NOT been regenerated
+!!! Font fnt_medium font family SF Atarian System is installed but couldn't match style - Font has NOT been regenerated
+!!! Font fnt_small font family SF Atarian System is installed but couldn't match style - Font has NOT been regenerated
+Converting GML script: ${project_dir}\objects\obj_game\Create_0.gml
+Converted description /// @description  Properties of game
+
+Converting GML script: ${project_dir}\objects\obj_game\Alarm_2.gml
+Converted description /// @description  Random menu shake
+
+Converting GML script: ${project_dir}\objects\obj_game\Alarm_1.gml
+Converted description /// @description  Respawn Player 2
+
+Converting GML script: ${project_dir}\objects\obj_game\Alarm_0.gml
+Converted description /// @description  Respawn Player 1
+
+Converting GML script: ${project_dir}\objects\obj_game\Keyboard_112.gml
+Converted description /// @description  Debug Mode
+
+Converting GML script: ${project_dir}\objects\obj_game\Other_4.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Place start HUD and load game
+
+Converting GML script: ${project_dir}\objects\obj_game\Other_3.gml
+Converted description /// @description  Destroy particle system
+
+Converting GML script: ${project_dir}\objects\obj_game\Other_2.gml
+Converted description /// @description  Load audio groups
+
+Converting GML script: ${project_dir}\objects\obj_game\Draw_0.gml
+Converted description /// @description  Draw menu text
+
+Converting GML script: ${project_dir}\objects\obj_glitch_part_creator\Create_0.gml
+Converted description /// @description  Initialize particle creator
+
+Converting GML script: ${project_dir}\objects\obj_glitch_part_creator\Step_0.gml
+Converted description /// @description  Create particles & die
+
+Converting GML script: ${project_dir}\objects\obj_blood_part_creator\Create_0.gml
+Converted description /// @description  Initialize particle creator
+
+Converting GML script: ${project_dir}\objects\obj_blood_part_creator\Step_0.gml
+Converted description /// @description  Create particles & die
+
+Converting GML script: ${project_dir}\objects\obj_smoke_part_creator\Create_0.gml
+Converted description /// @description  Initialize particle creator
+
+Converting GML script: ${project_dir}\objects\obj_smoke_part_creator\Step_0.gml
+Converted description /// @description  Create particles & die
+
+Converting GML script: ${project_dir}\objects\obj_smokeBig_part_creator\Create_0.gml
+Converted description /// @description  Initialize particle creator
+
+Converting GML script: ${project_dir}\objects\obj_smokeBig_part_creator\Step_0.gml
+Converted description /// @description  Create particles & die
+
+Converting GML script: ${project_dir}\objects\obj_screen_flash\Draw_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description  Draw screen flash
+
+Converting GML script: ${project_dir}\objects\obj_sprite_flash\Draw_0.gml
+Converted description /// @description  Draw flash
+
+Converting GML script: ${project_dir}\objects\obj_pause\Create_0.gml
+Converted builtin - line 19: background_vspeed[0] = 0 -> __background_set( e__BG.VSpeed, 0, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 17: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 17: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Deactivate when created
+
+Converting GML script: ${project_dir}\objects\obj_pause\Step_0.gml
+Converted builtin - line 8: background_vspeed[0] = 2 -> __background_set( e__BG.VSpeed, 0, 2 )
+Converted description /// @description  Activate back
+
+Converting GML script: ${project_dir}\objects\obj_pause\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description  Draw surface
+
+Converting GML script: ${project_dir}\objects\obj_pause\KeyPress_27.gml
+Converted builtin - line 7: background_vspeed[0] = 2 -> __background_set( e__BG.VSpeed, 0, 2 )
+Converted description /// @description  Activate back
+
+Converting GML script: ${project_dir}\objects\obj_pause_controller\KeyPress_27.gml
+Converted description /// @description  Create pause object
+
+Converting GML script: ${project_dir}\objects\obj_view_controller\Create_0.gml
+Converted description /// @description  Initialize view controller
+
+Converting GML script: ${project_dir}\objects\obj_view_controller\Alarm_0.gml
+Converted description /// @description  Set screen shake to 0
+
+Converting GML script: ${project_dir}\objects\obj_view_controller\Step_0.gml
+Converted builtin - line 2: view_xview[0] = random(screenshake -> __view_set( e__VW.XView, 0, random(screenshake )
+Converted builtin - line 3: view_yview[0] = random(screenshake -> __view_set( e__VW.YView, 0, random(screenshake )
+Converted description /// @description  Update view position
+
+Converting GML script: ${project_dir}\objects\obj_sound_controller\Step_0.gml
+Converted description /// @description  Always set sounds gain to that of global.sound & music gain to global.music
+
+Converting GML script: ${project_dir}\objects\obj_sound_controller\Other_2.gml
+Converted description /// @description  Set sounds gain
+
+Converting GML script: ${project_dir}\objects\obi_perkMenu_controller\Alarm_0.gml
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted description /// @description  Get back perk slots
+
+Converting GML script: ${project_dir}\objects\obj_event_manager\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_event_manager\Alarm_3.gml
+Converted description /// @description  Glitchageddon
+
+Converting GML script: ${project_dir}\objects\obj_event_manager\Alarm_2.gml
+Converted description /// @description  Erase text
+
+Converting GML script: ${project_dir}\objects\obj_event_manager\Alarm_1.gml
+Converted description /// @description  Stop on nothing
+
+Converting GML script: ${project_dir}\objects\obj_event_manager\Alarm_0.gml
+Converted description /// @description  Choose event
+
+Converting GML script: ${project_dir}\objects\obj_event_manager\Step_0.gml
+Converted description /// @description  Step events
+
+Converting GML script: ${project_dir}\objects\obj_event_manager\Draw_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted description /// @description  Display text
+
+Converting GML script: ${project_dir}\objects\obj_timer_minutes\Create_0.gml
+Converted description /// @description  Set Start Time
+
+Converting GML script: ${project_dir}\objects\obj_timer_minutes\Alarm_0.gml
+Converted builtin - line 13: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 13: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Work, action on end
+
+Converting GML script: ${project_dir}\objects\obj_timer_minutes\Draw_0.gml
+Converted builtin - line 5: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted description /// @description  Draw timer
+
+Converting GML script: ${project_dir}\objects\htme_obj_game\Create_0.gml
+Converted description /// @description  Synchronize with engine
+
+Converting GML script: ${project_dir}\objects\htme_obj_game\Step_2.gml
+Converted description /// @description  SyncOut vars
+
+Converting GML script: ${project_dir}\objects\htme_obj_game\Step_1.gml
+Converted description /// @description  Timer 0 Respawn Player1
+
+Converting GML script: ${project_dir}\objects\htme_obj_game\Other_4.gml
+Converted description /// @description  Place start HUD
+
+Converting GML script: ${project_dir}\objects\htme_obj_game\Draw_0.gml
+Converted description /// @description  Draw menu text
+
+Converting GML script: ${project_dir}\objects\htme_obj_timer_minutes\Create_0.gml
+Converted description /// @description  Synchronize with engine
+
+Converting GML script: ${project_dir}\objects\htme_obj_timer_minutes\Step_2.gml
+Converted description /// @description  SyncOut vars
+
+Converting GML script: ${project_dir}\objects\htme_obj_timer_minutes\Step_1.gml
+Converted builtin - line 17: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 17: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description Decrease the time
+
+Converting GML script: ${project_dir}\objects\htme_obj_timer_minutes\Draw_0.gml
+Converted builtin - line 5: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted description /// @description  Draw timer
+
+Converting GML script: ${project_dir}\objects\htme_obj_event_manager\Create_0.gml
+Converted description /// @description  Synchronize with engine
+
+Converting GML script: ${project_dir}\objects\htme_obj_event_manager\Step_2.gml
+Converted description /// @description  SyncOut vars
+
+Converting GML script: ${project_dir}\objects\htme_obj_event_manager\Step_1.gml
+Converted description /// @description  Timer 0 Choose event
+
+Converting GML script: ${project_dir}\objects\htme_obj_event_manager\Draw_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted description /// @description  Display text
+
+Converting GML script: ${project_dir}\objects\htme_obj_waitforclient\Step_0.gml
+Converted description /// @description  Check if client is connected
+
+Converting GML script: ${project_dir}\objects\htme_obj_waitforclient\Draw_0.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\htme_obj_network_controller\Step_0.gml
+Converted description /// @description  Check if engine running
+
+Converting GML script: ${project_dir}\objects\obj_button_parrent\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_button_parrent\Mouse_11.gml
+Converted description /// @description  Darken button
+
+Converting GML script: ${project_dir}\objects\obj_button_parrent\Mouse_10.gml
+Converted description /// @description  Lighten button
+
+Converting GML script: ${project_dir}\objects\obj_button_parrent\Draw_0.gml
+Converted description /// @description  Draw button
+
+Converting GML script: ${project_dir}\objects\obj_rematchSS_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_rematchSS_button\Mouse_4.gml
+Converted description /// @description  Restart game
+
+Converting GML script: ${project_dir}\objects\obj_splitscreen_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_splitscreen_button\Mouse_11.gml
+Converted description /// @description  Slide Back
+
+Converting GML script: ${project_dir}\objects\obj_splitscreen_button\Mouse_10.gml
+Converted description /// @description  Slide
+
+Converting GML script: ${project_dir}\objects\obj_splitscreen_button\Mouse_4.gml
+Converted description /// @description  Start and load game
+
+Converting GML script: ${project_dir}\objects\obj_online_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_online_button\Mouse_11.gml
+Converted description /// @description  Slide Back
+
+Converting GML script: ${project_dir}\objects\obj_online_button\Mouse_10.gml
+Converted description /// @description  Slide
+
+Converting GML script: ${project_dir}\objects\obj_online_button\Mouse_4.gml
+Converted description /// @description  Start Online
+
+Converting GML script: ${project_dir}\objects\obj_menu_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_menu_button\Mouse_4.gml
+Converted description /// @description  Go to menu
+
+Converting GML script: ${project_dir}\objects\obj_closePerks_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_closePerks_button\Mouse_4.gml
+Converted description /// @description  Destroy perk HUD
+
+Converting GML script: ${project_dir}\objects\obj_backtomenu_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_backtomenu_button\Mouse_4.gml
+Converted description /// @description  Go to menu
+
+Converting GML script: ${project_dir}\objects\obj_options_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_options_button\Mouse_11.gml
+Converted description /// @description  Slide Back
+
+Converting GML script: ${project_dir}\objects\obj_options_button\Mouse_10.gml
+Converted description /// @description  Slide
+
+Converting GML script: ${project_dir}\objects\obj_options_button\Mouse_4.gml
+Converted description /// @description  Go to options
+
+Converting GML script: ${project_dir}\objects\obj_start_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_start_button\Mouse_4.gml
+Converted description /// @description  Set Perks and Delete start HUD
+
+Converting GML script: ${project_dir}\objects\obj_quit_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_quit_button\Mouse_11.gml
+Converted description /// @description  Slide Back
+
+Converting GML script: ${project_dir}\objects\obj_quit_button\Mouse_10.gml
+Converted description /// @description  Slide
+
+Converting GML script: ${project_dir}\objects\obj_quit_button\Mouse_4.gml
+Converted description /// @description  Quit the game
+
+Converting GML script: ${project_dir}\objects\obj_restart_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_restart_button\Mouse_4.gml
+Converted description /// @description  Restart game
+
+Converting GML script: ${project_dir}\objects\obj_resume_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_resume_button\Mouse_4.gml
+Converted description /// @description  Resume game
+
+Converting GML script: ${project_dir}\objects\obj_player1choose\Create_0.gml
+Converted description /// @description  Create buttons
+
+Converting GML script: ${project_dir}\objects\obj_player1choose\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_player1_rArrow\Mouse_4.gml
+Converted description /// @description  Change image
+
+Converting GML script: ${project_dir}\objects\obj_player1_lArrow\Mouse_4.gml
+Converted description /// @description  Change image
+
+Converting GML script: ${project_dir}\objects\obj_player2choose\Create_0.gml
+Converted description /// @description  Create buttons
+
+Converting GML script: ${project_dir}\objects\obj_player2choose\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_player2_rArrow\Mouse_4.gml
+Converted description /// @description  Change image
+
+Converting GML script: ${project_dir}\objects\obj_player2_lArrow\Mouse_4.gml
+Converted description /// @description  Change image
+
+Converting GML script: ${project_dir}\objects\obj_timechoose_text\Create_0.gml
+Converted description /// @description  Create buttons
+
+Converting GML script: ${project_dir}\objects\obj_timechoose_text\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_time_lArrow\Mouse_4.gml
+Converted description /// @description  Change value
+
+Converting GML script: ${project_dir}\objects\obj_time_rArrow\Mouse_4.gml
+Converted description /// @description  Change value
+
+Converting GML script: ${project_dir}\objects\obj_events_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\obj_events_button\Step_0.gml
+Converted description /// @description  Get global.events
+
+Converting GML script: ${project_dir}\objects\obj_events_button\Mouse_4.gml
+Converted description /// @description  Change global.events
+
+Converting GML script: ${project_dir}\objects\obj_events_button\Draw_0.gml
+Converted description /// @description  Draw button
+
+Converting GML script: ${project_dir}\objects\htme_obj_host_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\htme_obj_host_button\Mouse_4.gml
+Converted description /// @description START SERVER
+
+Converting GML script: ${project_dir}\objects\htme_obj_host_button\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\htme_obj_join_button\Create_0.gml
+Converted description /// @description  Initialize button
+
+Converting GML script: ${project_dir}\objects\htme_obj_join_button\Mouse_4.gml
+Converted description /// @description CONECT TO A SERVER
+
+Converting GML script: ${project_dir}\objects\htme_obj_join_button\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_player1_perk1\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_player1_perk1\Mouse_4.gml
+Converted description /// @description  Open perk window
+
+Converting GML script: ${project_dir}\objects\obj_player1_perk2\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_player1_perk2\Mouse_4.gml
+Converted description /// @description  Open perk window
+
+Converting GML script: ${project_dir}\objects\obj_player2_perk1\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_player2_perk1\Mouse_4.gml
+Converted description /// @description  Open perk window
+
+Converting GML script: ${project_dir}\objects\obj_player2_perk2\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_player2_perk2\Mouse_4.gml
+Converted description /// @description  Open perk window
+
+Converting GML script: ${project_dir}\objects\obj_perk0\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_perk0\Mouse_11.gml
+Converted description /// @description  Stop displaying text
+
+Converting GML script: ${project_dir}\objects\obj_perk0\Mouse_10.gml
+Converted description /// @description  Display text
+
+Converting GML script: ${project_dir}\objects\obj_perk0\Mouse_4.gml
+Converted description /// @description  Change image dependent on who choose it
+
+Converting GML script: ${project_dir}\objects\obj_perk0\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_perk1\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_perk1\Mouse_11.gml
+Converted description /// @description  Stop displaying text
+
+Converting GML script: ${project_dir}\objects\obj_perk1\Mouse_10.gml
+Converted description /// @description  Display text
+
+Converting GML script: ${project_dir}\objects\obj_perk1\Mouse_4.gml
+Converted description /// @description  Change image dependent on who choose it
+
+Converting GML script: ${project_dir}\objects\obj_perk1\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_perk2\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_perk2\Mouse_11.gml
+Converted description /// @description  Stop displaying text
+
+Converting GML script: ${project_dir}\objects\obj_perk2\Mouse_10.gml
+Converted description /// @description  Display text
+
+Converting GML script: ${project_dir}\objects\obj_perk2\Mouse_4.gml
+Converted description /// @description  Change image dependent on who choose it
+
+Converting GML script: ${project_dir}\objects\obj_perk2\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_perk3\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_perk3\Mouse_11.gml
+Converted description /// @description  Stop displaying text
+
+Converting GML script: ${project_dir}\objects\obj_perk3\Mouse_10.gml
+Converted description /// @description  Display text
+
+Converting GML script: ${project_dir}\objects\obj_perk3\Mouse_4.gml
+Converted description /// @description  Change image dependent on who choose it
+
+Converting GML script: ${project_dir}\objects\obj_perk3\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_perk4\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_perk4\Mouse_11.gml
+Converted description /// @description  Stop displaying text
+
+Converting GML script: ${project_dir}\objects\obj_perk4\Mouse_10.gml
+Converted description /// @description  Display text
+
+Converting GML script: ${project_dir}\objects\obj_perk4\Mouse_4.gml
+Converted description /// @description  Change image dependent on who choose it
+
+Converting GML script: ${project_dir}\objects\obj_perk4\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_perk5\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_perk5\Mouse_11.gml
+Converted description /// @description  Stop displaying text
+
+Converting GML script: ${project_dir}\objects\obj_perk5\Mouse_10.gml
+Converted description /// @description  Display text
+
+Converting GML script: ${project_dir}\objects\obj_perk5\Mouse_4.gml
+Converted description /// @description  Change image dependent on who choose it
+
+Converting GML script: ${project_dir}\objects\obj_perk5\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_perk6\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_perk6\Mouse_11.gml
+Converted description /// @description  Stop displaying text
+
+Converting GML script: ${project_dir}\objects\obj_perk6\Mouse_10.gml
+Converted description /// @description  Display text
+
+Converting GML script: ${project_dir}\objects\obj_perk6\Mouse_4.gml
+Converted description /// @description  Change image dependent on who choose it
+
+Converting GML script: ${project_dir}\objects\obj_perk6\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_perk7\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_perk7\Mouse_11.gml
+Converted description /// @description  Stop displaying text
+
+Converting GML script: ${project_dir}\objects\obj_perk7\Mouse_10.gml
+Converted description /// @description  Display text
+
+Converting GML script: ${project_dir}\objects\obj_perk7\Mouse_4.gml
+Converted description /// @description  Change image dependent on who choose it
+
+Converting GML script: ${project_dir}\objects\obj_perk7\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_perk8\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_perk8\Mouse_11.gml
+Converted description /// @description  Stop displaying text
+
+Converting GML script: ${project_dir}\objects\obj_perk8\Mouse_10.gml
+Converted description /// @description  Display text
+
+Converting GML script: ${project_dir}\objects\obj_perk8\Mouse_4.gml
+Converted description /// @description  Change image dependent on who choose it
+
+Converting GML script: ${project_dir}\objects\obj_perk8\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\obj_start_hud\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_start_hud\Step_0.gml
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 13: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 10: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 13: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Before starting
+
+Converting GML script: ${project_dir}\objects\obj_perk_hud\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_perk_hud\Destroy_0.gml
+Converted description /// @description  Reactivate start hud
+
+Converting GML script: ${project_dir}\objects\obj_perk_hud\Step_0.gml
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 13: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 14: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 15: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 16: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 17: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 18: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 19: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 21: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 13: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 14: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 15: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 16: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 17: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 18: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 21: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Show perks and deactivate
+
+Converting GML script: ${project_dir}\objects\obj_pause_hud\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_pause_hud\Step_0.gml
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Pause-objects
+
+Converting GML script: ${project_dir}\objects\obj_end_hud\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_end_hud\Step_0.gml
+Converted builtin - line 4: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Stop animation
+
+Converting GML script: ${project_dir}\objects\obj_lobby_hud\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_lobby_hud\Step_0.gml
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Lobby HUD
+
+Converting GML script: ${project_dir}\objects\obj_death_text\Draw_0.gml
+Converted description /// @description  Draw death text
+
+Converting GML script: ${project_dir}\objects\obj_glitch_overlay\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_glitch_overlay\Step_0.gml
+Converted description /// @description  Die
+
+Converting GML script: ${project_dir}\objects\obj_logo\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_logo\Alarm_0.gml
+Converted description /// @description  Restart animation
+
+Converting GML script: ${project_dir}\objects\obj_logo\Step_0.gml
+Converted description /// @description  Stop animation and vibrate
+
+Converting GML script: ${project_dir}\objects\obj_Sbar\Draw_0.gml
+Converted description /// @description  Draw Text
+
+Converting GML script: ${project_dir}\objects\obj_Sslider\Draw_0.gml
+Converted description /// @description  Draw sprite
+
+Converting GML script: ${project_dir}\objects\obj_Mbar\Draw_0.gml
+Converted description /// @description  Draw Text
+
+Converting GML script: ${project_dir}\objects\obj_Mslider\Draw_0.gml
+Converted description /// @description  Draw sprite
+
+Converting GML script: ${project_dir}\objects\obj_loadingbar\Step_0.gml
+Converted description /// @description  Get percentage of loading & Play music
+
+Converting GML script: ${project_dir}\objects\obj_loadingbar\Draw_0.gml
+Converted description /// @description  Draw Text
+
+Converting GML script: ${project_dir}\objects\obj_optionsroom_text\Draw_0.gml
+Converted description /// @description  Draw text
+
+Converting GML script: ${project_dir}\objects\htme_obj_player1\Create_0.gml
+Converted description /// @description  Synchronize with engine
+
+Converting GML script: ${project_dir}\objects\htme_obj_player1\Step_2.gml
+Converted description /// @description  SyncOut vars
+
+Converting GML script: ${project_dir}\objects\htme_obj_player1\Step_1.gml
+Converted description /// @description  Timer 0 Regenerate
+
+Converting GML script: ${project_dir}\objects\htme_obj_player1\Collision_a3baeff7-543a-49ba-8bdb-2eb311b1add4.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player1\Collision_120245ef-2e22-4862-80f1-f488e4332f12.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player1\Collision_4e6771cc-deed-4737-9399-96e7a5807f94.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player1\Collision_9d939290-f354-4673-85f5-f8777136f1f7.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Teleport and damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player1\Collision_7825d451-857d-4855-9b09-3f520334b510.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player1\Collision_c3b807bb-2998-41b4-a537-e066bd2da798.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player1\Draw_64.gml
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 13: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 13: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Draw HUD
+
+Converting GML script: ${project_dir}\objects\htme_obj_player2\Create_0.gml
+Converted description /// @description  Synchronize with engine
+
+Converting GML script: ${project_dir}\objects\htme_obj_player2\Step_2.gml
+Converted description /// @description  SyncOut vars
+
+Converting GML script: ${project_dir}\objects\htme_obj_player2\Step_1.gml
+Converted description /// @description  Timer 0 Regenerate
+
+Converting GML script: ${project_dir}\objects\htme_obj_player2\Collision_10da3420-025c-4e30-916c-77d2766dc451.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player2\Collision_31eec34c-e33a-4f0a-b9c6-b484bf3e7c8c.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player2\Collision_be8f2b6a-e9ad-4970-9f2c-379cf74c77da.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player2\Collision_f52bc60b-397b-414a-a8a5-b1edd9a2e7ee.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Teleport and damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player2\Collision_8b32bc3c-801f-4513-8705-92969487de25.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player2\Collision_01fa67ae-3412-4bce-903d-6c58cb3b2309.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\htme_obj_player2\Draw_64.gml
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 13: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 13: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Draw HUD
+
+Converting GML script: ${project_dir}\objects\obj_player1\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_player1\Alarm_4.gml
+Converted description /// @description  Undead dead
+
+Converting GML script: ${project_dir}\objects\obj_player1\Alarm_3.gml
+Converted description /// @description  Recreate Illusion
+
+Converting GML script: ${project_dir}\objects\obj_player1\Alarm_2.gml
+Converted description /// @description  Split
+
+Converting GML script: ${project_dir}\objects\obj_player1\Alarm_1.gml
+Converted description /// @description  Unstable perk
+
+Converting GML script: ${project_dir}\objects\obj_player1\Alarm_0.gml
+Converted description /// @description  Regenerate
+
+Converting GML script: ${project_dir}\objects\obj_player1\Step_0.gml
+Converted description /// @description  Move and check HP
+
+Converting GML script: ${project_dir}\objects\obj_player1\Collision_c0e67d46-a0e0-414c-927a-edbe802beab3.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\obj_player1\Collision_a9c2e296-1bc0-43bc-8bec-d758a78846a6.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\obj_player1\Collision_dbdde707-7759-4e41-8693-911212b8c4cf.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\obj_player1\Collision_e3c7752b-3bdb-451d-9021-65775eb54c15.gml
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Teleport and damage
+
+Converting GML script: ${project_dir}\objects\obj_player1\Collision_ac346f88-3d98-4da9-bef4-4b95736e8ce9.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\obj_player1\Collision_695c47b7-7a11-461c-ba62-047903d83b92.gml
+Converted description /// @description  Random Teleport and damage
+
+Converting GML script: ${project_dir}\objects\obj_player1\Draw_64.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Draw HUD
+
+Converting GML script: ${project_dir}\objects\obj_player2\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_player2\Alarm_4.gml
+Converted description /// @description  Undead dead
+
+Converting GML script: ${project_dir}\objects\obj_player2\Alarm_3.gml
+Converted description /// @description  Recreate Illusion
+
+Converting GML script: ${project_dir}\objects\obj_player2\Alarm_2.gml
+Converted description /// @description  Split
+
+Converting GML script: ${project_dir}\objects\obj_player2\Alarm_1.gml
+Converted description /// @description  Unstable perk
+
+Converting GML script: ${project_dir}\objects\obj_player2\Alarm_0.gml
+Converted description /// @description  Regenerate
+
+Converting GML script: ${project_dir}\objects\obj_player2\Step_0.gml
+Converted description /// @description  Move and check HP
+
+Converting GML script: ${project_dir}\objects\obj_player2\Collision_6b6a50b4-b2f1-4c27-9fcd-2d1465fff77b.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\obj_player2\Collision_3adf808c-9fb3-40f6-be80-a8004179a13b.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\obj_player2\Collision_ee00bbc7-8517-4513-9140-81d57f408988.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\obj_player2\Collision_4b1242a6-475e-40ab-8135-420b23b2b63e.gml
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Teleport and damage
+
+Converting GML script: ${project_dir}\objects\obj_player2\Collision_aecedb42-56f3-4bdd-9d4c-6264ab394f56.gml
+Converted description /// @description  Damage
+
+Converting GML script: ${project_dir}\objects\obj_player2\Collision_5c2438f4-db45-4961-aeab-838fe5d60fce.gml
+Converted description /// @description  Random Teleport and damage
+
+Converting GML script: ${project_dir}\objects\obj_player2\Draw_64.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 6: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Draw HUD
+
+Converting GML script: ${project_dir}\objects\obj_splitP1\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_splitP1\Collision_ad8b038a-e409-46bd-96ca-d2adf301b9ef.gml
+Converted description /// @description  Destroy both
+
+Converting GML script: ${project_dir}\objects\obj_splitP1\Other_0.gml
+Converted description /// @description  Destroy
+
+Converting GML script: ${project_dir}\objects\obj_splitP2\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_splitP2\Collision_2713f692-5dfc-46d1-99a5-a696ef55676d.gml
+Converted description /// @description  Destroy both
+
+Converting GML script: ${project_dir}\objects\obj_splitP2\Other_0.gml
+Converted description /// @description  Destroy
+
+Converting GML script: ${project_dir}\objects\obj_shieldP1\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_shieldP1\Alarm_0.gml
+Converted description /// @description  Selfdestroy
+
+Converting GML script: ${project_dir}\objects\obj_shieldP1\Step_0.gml
+Converted description /// @description  Follow Player 1
+
+Converting GML script: ${project_dir}\objects\obj_shieldP2\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_shieldP2\Alarm_0.gml
+Converted description /// @description  Selfdestroy
+
+Converting GML script: ${project_dir}\objects\obj_shieldP2\Step_0.gml
+Converted description /// @description  Follow Player 2
+
+Converting GML script: ${project_dir}\objects\obj_illusion_P1\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_illusion_P1\Step_0.gml
+Converted description /// @description  Follow Player & Disappear
+
+Converting GML script: ${project_dir}\objects\obj_illusion_P1\Collision_03ed287d-a786-4715-872f-9f7246152def.gml
+Converted description /// @description  Disappear
+
+Converting GML script: ${project_dir}\objects\obj_illusion_P1\Collision_55ec2e6b-bbe2-46a6-9b89-37d894a49e28.gml
+Converted description /// @description  Disappear
+
+Converting GML script: ${project_dir}\objects\obj_illusion_P1\Other_0.gml
+Converted description /// @description  Disappear
+
+Converting GML script: ${project_dir}\objects\obj_illusion_P2\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_illusion_P2\Step_0.gml
+Converted description /// @description  Follow Player & Disappear
+
+Converting GML script: ${project_dir}\objects\obj_illusion_P2\Collision_df95c839-aab4-46b6-8ff0-465ace734072.gml
+Converted description /// @description  Disappear
+
+Converting GML script: ${project_dir}\objects\obj_illusion_P2\Collision_969ad22c-04a3-4489-8a53-57d468401b41.gml
+Converted description /// @description  Disappear
+
+Converting GML script: ${project_dir}\objects\obj_illusion_P2\Other_0.gml
+Converted description /// @description  Disappear
+
+Converting GML script: ${project_dir}\objects\obj_magiccircle\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_magiccircle\Step_0.gml
+Converted description /// @description  Rotate and shrink
+
+Converting GML script: ${project_dir}\objects\obj_wall\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_saw\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_saw\Step_0.gml
+Converted description /// @description  Rotate
+
+Converting GML script: ${project_dir}\objects\obj_laser_emitterR\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_laser_emitterR\Alarm_0.gml
+Converted description /// @description  Shoot laser
+
+Converting GML script: ${project_dir}\objects\obj_laserR\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_laserR\Collision_686e7be7-a52c-48cb-af51-461bd32b3f25.gml
+Converted description /// @description  Destroy
+
+Converting GML script: ${project_dir}\objects\obj_laserR\Other_0.gml
+Converted description /// @description  Destroy
+
+Converting GML script: ${project_dir}\objects\obj_laser_emitterL\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_laser_emitterL\Alarm_0.gml
+Converted description /// @description  Shoot laser
+
+Converting GML script: ${project_dir}\objects\obj_laserL\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_laserL\Collision_bb6cb91b-1100-4535-897c-e5097cc16e6d.gml
+Converted description /// @description  Destroy
+
+Converting GML script: ${project_dir}\objects\obj_laserL\Other_0.gml
+Converted description /// @description  Destroy
+
+Converting GML script: ${project_dir}\objects\htme_obj_laser_emitterR\Create_0.gml
+Converted description /// @description  Synchronize with engine
+
+Converting GML script: ${project_dir}\objects\htme_obj_laser_emitterR\Step_2.gml
+Converted description /// @description  SyncOut vars
+
+Converting GML script: ${project_dir}\objects\htme_obj_laser_emitterR\Step_1.gml
+Converted description /// @description  Timer 0 Shoot Laser
+
+Converting GML script: ${project_dir}\objects\htme_obj_laserR\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\htme_obj_laserR\Collision_585faba5-e69e-4629-80ea-cd3d84661e55.gml
+Converted description /// @description  Destroy
+
+Converting GML script: ${project_dir}\objects\htme_obj_laserR\Other_0.gml
+Converted description /// @description  Destroy
+
+Converting GML script: ${project_dir}\objects\htme_obj_laser_emitterL\Create_0.gml
+Converted description /// @description  Synchronize with engine
+
+Converting GML script: ${project_dir}\objects\htme_obj_laser_emitterL\Step_2.gml
+Converted description /// @description  SyncOut vars
+
+Converting GML script: ${project_dir}\objects\htme_obj_laser_emitterL\Step_1.gml
+Converted description /// @description  Timer 0 Shoot Laser
+
+Converting GML script: ${project_dir}\objects\htme_obj_laserL\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\htme_obj_laserL\Collision_b03eed37-443b-4593-8339-44fccce4ee11.gml
+Converted description /// @description  Destroy
+
+Converting GML script: ${project_dir}\objects\htme_obj_laserL\Other_0.gml
+Converted description /// @description  Destroy
+
+Converting GML script: ${project_dir}\objects\obj_healthPack\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_healthPack\Alarm_0.gml
+Converted description /// @description  Full
+
+Converting GML script: ${project_dir}\objects\obj_healthPack\Collision_bd8e7ca9-bf3a-463e-a4c8-afead5619701.gml
+Converted description /// @description  Heal
+
+Converting GML script: ${project_dir}\objects\obj_healthPack\Collision_c3b7be58-3a0e-4f2c-9315-0d7debbb6d96.gml
+Converted description /// @description  Heal
+
+Converting GML script: ${project_dir}\objects\obj_healthPack\Draw_0.gml
+Converted description /// @description  Draw timer
+
+Converting GML script: ${project_dir}\objects\htme_obj_healthPack\Create_0.gml
+Converted description /// @description  Synchronize with engine
+
+Converting GML script: ${project_dir}\objects\htme_obj_healthPack\Step_2.gml
+Converted description /// @description  SyncOut vars
+
+Converting GML script: ${project_dir}\objects\htme_obj_healthPack\Step_1.gml
+Converted description /// @description  Timer 0 Full
+
+Converting GML script: ${project_dir}\objects\htme_obj_healthPack\Collision_b92f9270-af30-4c82-b90f-eabd6adf8e15.gml
+Converted description /// @description  Heal
+
+Converting GML script: ${project_dir}\objects\htme_obj_healthPack\Collision_448e5f5a-21bd-4517-9188-09893812796c.gml
+Converted description /// @description  Heal
+
+Converting GML script: ${project_dir}\objects\htme_obj_healthPack\Draw_0.gml
+Converted description /// @description  Draw timer
+
+Converting GML script: ${project_dir}\objects\obj_black_hole\Create_0.gml
+Converted description /// @description  Properties
+
+Converting GML script: ${project_dir}\objects\obj_black_hole\Step_0.gml
+Converted description /// @description  Stop animation
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\objects\htme_obj_black_hole\Create_0.gml
+Converted description /// @description  Synchronize with engine
+
+Converting GML script: ${project_dir}\objects\htme_obj_black_hole\Step_2.gml
+Converted description /// @description  SyncOut vars
+
+Converting GML script: ${project_dir}\objects\htme_obj_black_hole\Step_1.gml
+Converted description /// @description  Step events & SyncIn
+
+Converting GML script: ${project_dir}\objects\obj_htme\Create_0.gml
+Converted description /// @description htme_init(); - Start engine/// @function htme_init
+
+Converting GML script: ${project_dir}\objects\obj_htme\Destroy_0.gml
+Converted description /// @description Disconnect or kick clients if started
+
+Converting GML script: ${project_dir}\objects\obj_htme\Step_0.gml
+Converted description /// @description htme_step(); - Pass step event to the engine/// @function htme_step
+
+Converting GML script: ${project_dir}\objects\obj_htme\Other_68.gml
+Converted description /// @description htme_networking(); - Pass networking event to the engine/// @function htme_networking
+
+Converting GML script: ${project_dir}\objects\obj_htme\Other_5.gml
+Converted description /// @description htme_roomend(); - Clear up instances/// @function htme_roomend
+
+Converting GML script: ${project_dir}\objects\obj_htme\Other_4.gml
+Converted description /// @description htme_roomstart(); - Sync current room/// @function htme_roomstart
+
+Converting GML script: ${project_dir}\objects\obj_htme\Other_3.gml
+Converted description /// @description Disconnect or kick clients if started
+
+Converting GML script: ${project_dir}\objects\obj_htme\Draw_0.gml
+Converted description /// @description htme_debugoverlay(); - Draw debug overlay/// @function htme_debugoverlay
+
+Game speed set to 60
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'

@@ -1,0 +1,42 @@
+Converting GML script: ${project_dir}\scripts\button_create\button_create.gml
+Converted description /// @description create_button(x,y,action,label)/// @param x
+/// @param y
+/// @param action
+/// @param label
+
+Converting GML script: ${project_dir}\scripts\game_path\game_path.gml
+Converted description /// @description game_path
+Converted string - line 6: "game_data\" -> "game_data\\"
+
+Converting GML script: ${project_dir}\scripts\gmgl_init\gmgl_init.gml
+Converted description /// @description gmgl_init()
+
+Converting GML script: ${project_dir}\scripts\local_install\local_install.gml
+Converted description /// @description local_install()
+
+Converting GML script: ${project_dir}\scripts\manifest_load\manifest_load.gml
+Converted description /// @description manifest_load
+
+Converting GML script: ${project_dir}\scripts\manifest_save\manifest_save.gml
+Converted description /// @description manifest_save()
+
+Font fnt_gmgl has been converted to font family Verdana (Regular) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\objects\obj_gmgl_controller\Other_62.gml
+Converted description /// @description check updates
+
+Converting GML script: ${project_dir}\objects\obj_gmgl_controller\Other_2.gml
+Converted description /// @description init
+
+Converting GML script: ${project_dir}\objects\obj_gmgl_btn\Other_13.gml
+Converted description /// @description Re-check updates
+
+Converting GML script: ${project_dir}\objects\obj_gmgl_btn\Other_12.gml
+Converted description /// @description run game
+
+Converting GML script: ${project_dir}\objects\obj_gmgl_btn\Other_11.gml
+Converted description /// @description refuse update
+
+Converting GML script: ${project_dir}\objects\obj_gmgl_btn\Other_10.gml
+Converted description /// @description accept update
+
+Updated compatibility script '__global_object_depths.gml'

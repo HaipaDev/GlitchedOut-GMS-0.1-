@@ -1,0 +1,31 @@
+{
+    "id": "0a735ad6-8f03-4f4c-add4-64e5442c9fe8",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "0a735ad6-8f03-4f4c-add4-64e5442c9fe8",
+    "children": [
+        "5170563e-a5b7-4e2a-b132-34629df41c3a",
+        "0295f456-8cd1-4d7e-949f-37e00c2c7f39",
+        "4fc15272-a5bd-414e-acb9-46c05566eb66",
+        "1f782979-a36e-4eaa-b096-1d0fe43a727f",
+        "efb25835-bad8-4a6d-a513-4e51d1cc26f0",
+        "bff020b7-fcc9-4e44-8189-d4ca4a58cb34",
+        "814fa3bb-711b-416d-a8bf-fae487603ab1",
+        "bc2b3118-a1b2-4869-8e90-d548f1951d8f",
+        "a36e392b-ecce-4cbb-90fe-2bfca59d51b5",
+        "14163b73-837f-4f89-9b5e-73ec9d6f7a6a",
+        "92b1bdbe-24a4-4513-b5db-5f1cc05ae6a1",
+        "f7d4fda0-d7db-4a7d-9302-895f26514a36",
+        "d7f1b708-732d-4df3-b7cf-b98abb07ebda",
+        "418d1942-7d98-47ae-b780-ba74b53bbc5e",
+        "4ae26cdd-5c71-48e4-9fc1-8de2e4be1991",
+        "5ea967a8-464d-4162-827a-2479b1498f35",
+        "d926fa03-dc03-4df5-94fa-acd42ae79bc8",
+        "c4f79010-6f8e-4a92-b4b6-0fab577fb5f8",
+        "57fdb0fa-a548-4ebb-8d16-0f0c492117af"
+    ],
+    "filterType": "GMScript",
+    "folderName": "Dissonance",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
